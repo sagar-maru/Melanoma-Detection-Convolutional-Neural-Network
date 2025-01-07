@@ -1,5 +1,3 @@
----
-
 # Melanoma Detection Using Custom Convolutional Neural Network
 > A multiclass classification model to detect melanoma and other skin diseases using a custom CNN built in TensorFlow.
 
