@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# TensorFlow / Keras model checkpoints
+*.h5
+*.ckpt
+*.pb
+checkpoints/
+
+# Dataset files
+*.csv
+*.json
+*.xml
+*.zip
+*.tar.gz
+*.hdf5
+*.tfrecord
+datasets/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Colab environment files
+.colab/
+.colab_metadata/
+
+# Logs and debug files
+*.log
+*.out
+*.err
+logs/
+events.out.tfevents.*
+
+# Python environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+*.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+*.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
